@@ -67,7 +67,7 @@ My goal is to bridge the gap between theory and practice by working on real-worl
 
 <div align="center">
 
-<img width="348" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="https://images.steamusercontent.com/ugc/1763695356238232654/E23F3C65246545A98D3EC87FBAED3FB67F0150F0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img width="348" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="[https://images.steamusercontent.com/ugc/1763695356238232654/E23F3C65246545A98D3EC87FBAED3FB67F0150F0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc4cDd6MDY3ZGppems1Mm8yaXk0bmY0MzRoeHF1cnZ2dmwyZHB3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uSoDr54W9M3uSBiTST/giphy.gif)" />
 
 </div>
 
