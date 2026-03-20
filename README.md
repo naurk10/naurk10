@@ -67,7 +67,7 @@ My goal is to bridge the gap between theory and practice by working on real-worl
 
 <div align="center">
 
-<img width="348" height="1162" alt="{A472021F-2A5C-42CF-8F60-13CE3F597216}" src="[<div class="tenor-gif-embed" data-postid="4667305439104820644" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oh-my-god-jujutsu-kaisen-jjk-higuruma-jjk-season-3-gif-4667305439104820644">Oh My God Jujutsu Kaisen GIF</a>from <a href="https://tenor.com/search/oh+my+god-gifs">Oh My God GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" />
+<div class="tenor-gif-embed" data-postid="4667305439104820644" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/oh-my-god-jujutsu-kaisen-jjk-higuruma-jjk-season-3-gif-4667305439104820644">Oh My God Jujutsu Kaisen GIF</a>from <a href="https://tenor.com/search/oh+my+god-gifs">Oh My God GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 </div>
 
