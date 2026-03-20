@@ -65,14 +65,15 @@ My goal is to bridge the gap between theory and practice by working on real-worl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naurk10&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
 </p>
 
-<div align="center">
+<<div align="center">
 
-<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naurk10&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=808080&point=cccccc&area=true&hide_border=false&border_color=333333&custom_title=Contribution%20Graph&radius=15" alt="Contribution Graph" width="90%"/>
+
+  <br><br>
+
   <img src="https://media.tenor.com/7YfL9q_Fv9kAAAAd/oh-my-god-jujutsu-kaisen.gif" alt="Higuruma GIF" width="300">
-</p>
 
-</div>
+  <br><br>
 
-feel free to check out [my personal site](https://YOUR-DOMAIN-HERE.com)!!
-
+  feel free to check out [my personal site](https://YOUR-DOMAIN-HERE.com)!!
 </div>
