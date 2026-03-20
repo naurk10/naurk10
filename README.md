@@ -71,7 +71,7 @@ My goal is to bridge the gap between theory and practice by working on real-worl
 
   <br/><br/>
 
-<img src="https://c.tenor.com/7YfL9q_Fv9kAAAAd/oh-my-god-jujutsu-kaisen.gif" alt="Higuruma GIF" width="300">
+<img src="higuruma.gif" alt="Higuruma GIF" width="300">
 
   <br/><br/>
 
