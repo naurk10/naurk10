@@ -67,7 +67,10 @@ My goal is to bridge the gap between theory and practice by working on real-worl
 
 <div align="center">
 
-![Higuruma Oh My God](https://media.tenor.com/7YfL9q_Fv9kAAAAd/oh-my-god-jujutsu-kaisen.gif)
+<p align="center">
+  <img src="https://media.tenor.com/7YfL9q_Fv9kAAAAd/oh-my-god-jujutsu-kaisen.gif" alt="Higuruma GIF" width="300">
+</p>
+
 </div>
 
 feel free to check out [my personal site](https://YOUR-DOMAIN-HERE.com)!!
